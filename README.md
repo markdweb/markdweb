@@ -65,7 +65,7 @@ Check my <a href="https://github.com/markdweb?tab=repositories"> personal projec
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1q9eqOwFRwmVuJ07zoKlBn?si=d0fc81d15aa446be)
 [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5SLY8BwjrY3sWR3Aff5f5F?si=f4fa053f293e40e7)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314biwxdkaag2765nhjkbcninkcy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/314biwxdkaag2765nhjkbcninkcy)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=314biwxdkaag2765nhjkbcninkcy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/314biwxdkaag2765nhjkbcninkcy)
 
 </div>
 
